@@ -1,4 +1,4 @@
-# DAIT CIT101: Fundamentals of Programming
+# BAIT CIT101: Fundamentals of Programming
 
 ### Practical 1 – Getting Started with Python
 
